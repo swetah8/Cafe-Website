@@ -56,7 +56,7 @@ export default function Header() {
 
           <span className="leading-tight mt-4">
             <span className="block font-serif text-[1.05rem] font-semibold text-brown-dark">
-              Biblio Kaffe
+              Biblio Kaffee
             </span>
 
             <span className="block font-sans text-[0.58rem] font-semibold tracking-[0.18em] text-muted">

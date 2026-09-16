@@ -21,7 +21,7 @@ export default function Footer() {
               </span>
               <span className="leading-tight">
                 <span className="block font-serif text-[1.05rem] font-semibold text-cream">
-                  BeanBloom
+                  BiblioLKaffee
                 </span>
                 <span className="block text-[0.58rem] font-sans font-semibold tracking-[0.18em] text-cream/60">
                   CAF&Eacute; &amp; BAKERY
@@ -74,7 +74,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2.5">
                 <Mail size={15} className="shrink-0 text-terracotta" />
-                hello@beanbloom.com
+                hello@bibliokaffee.com
               </li>
             </ul>
             <div className="mt-5">
@@ -86,13 +86,8 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-cream/10 pt-6 font-sans text-xs text-cream/50 sm:flex-row">
-          <p>&copy; 2025 BeanBloom Caf&eacute; &amp; Bakery. All rights reserved.</p>
-          <p>
-            Website by{" "}
-            <a href="#" className="underline hover:text-cream/80">
-              Omway Technologies
-            </a>
-          </p>
+          <p>&copy; 2025 BiblioKaffee Caf&eacute; &amp; Bakery. All rights reserved.</p>
+          
         </div>
       </div>
     </footer>

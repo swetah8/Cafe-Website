@@ -1,4 +1,4 @@
-# BeanBloom — Café & Bakery Website
+# BiblioKaffee — Café & Bakery Website
 
 A fully functional café website built with Next.js (App Router), React, TypeScript, Tailwind CSS, and lucide-react icons, matching the supplied reference design.
 
@@ -54,7 +54,6 @@ A modern, fresh, and nature-inspired theme with soft green accents.
 | Terracotta (Accent) | `#C86F4A` |
 | Dark Green | `#1F4D3A` |
 
-This is a fixed, single-palette build — colors live directly in `tailwind.config.ts`. For the warm/original palette version, see the separate `beanbloom-warm` project.
 
 ## Notes
 

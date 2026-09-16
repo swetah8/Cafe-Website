@@ -21,7 +21,7 @@ export default function Gallery() {
             <Image
               key={src}
               src={src}
-              alt="BeanBloom café gallery"
+              alt="BiblioKaffee café gallery"
               fill
               sizes="1200px"
               priority={i === 0}

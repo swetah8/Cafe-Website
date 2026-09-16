@@ -2,10 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BeanBloom Café & Bakery | Fresh Coffee, Delicious Moments",
+  title: "Biblio Kaffee | Coffee & Literature",
   description:
-    "BeanBloom is a neighborhood café and bakery serving great coffee, fresh food and a welcoming space in Kathmandu, Nepal.",
+    "Biblio Kaffee is a cozy café in Kathmandu, Nepal, bringing together thoughtfully crafted coffee, literature, and a welcoming space for meaningful moments.",
 };
+
 
 export default function RootLayout({
   children,

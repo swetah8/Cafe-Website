@@ -75,7 +75,7 @@ export const newsItems: NewsItem[] = [
   },
   {
     id: "weekend-brunch",
-    title: "Weekend Brunch at BeanBloom",
+    title: "Weekend Brunch at Biblio Kaffee",
     date: "Apr 05, 2025",
     image:
       "https://images.unsplash.com/photo-1445116572660-236099ec97a0?q=80&w=700&auto=format&fit=crop",
