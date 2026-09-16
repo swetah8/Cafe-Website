@@ -40,7 +40,7 @@ export default function Header() {
         {/* Logo */}
         <a
           href="#home"
-          className="flex shrink-0 items-center gap-"
+          className="flex shrink-0 items-center "
         >
           <span className="relative flex h-10 w-10 items-center justify-center overflow-hidden ">
             <Image
